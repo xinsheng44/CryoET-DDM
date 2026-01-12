@@ -1,0 +1,23 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+venv/
+.env
+
+# 常用 IDE 配置
+.vscode/
+.idea/
+
+# 深度学习 & Cryo-ET 特定文件 (避免上传大文件)
+*.mrc
+*.rec
+*.st
+*.map
+*.h5
+*.pth
+*.ckpt
+dataset/
+checkpoints/
+outputs/
