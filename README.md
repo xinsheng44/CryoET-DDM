@@ -276,9 +276,9 @@ The following datasets were used for training and evaluation:
 
 Pre-trained models are available for download:
 
-- **Model for EMPIAR-10499**: [Download Link](https://[your-link-here]/models/EMPIAR-10499_model.zip)
-- **Model for EMPIAR-10164**: [Download Link](https://[your-link-here]/models/EMPIAR-10164_model.zip)
-- **Model for EMPIAR-10651**: [Download Link](https://[your-link-here]/models/EMPIAR-10651_model.zip)
+- **Model for EMPIAR-10499**: [Download Link](https://pan.baidu.com/s/1-tb9elDmZV62UlsKbepjMg?pwd=i65j)
+- **Model for EMPIAR-10164**: [Download Link](https://pan.baidu.com/s/1-tb9elDmZV62UlsKbepjMg?pwd=i65j)
+- **Model for EMPIAR-10651**: [Download Link](https://pan.baidu.com/s/1-tb9elDmZV62UlsKbepjMg?pwd=i65j)
 
 **Note**: Please update the download links with actual URLs where you host the pre-trained models.
 
@@ -286,5 +286,6 @@ Pre-trained models are available for download:
 
 If you want to skip the data preparation step, processed training data (particle patches and noise patches) can be downloaded:
 
-- **Particle Patches**: [Download Link](https://[your-link-here]/data/particle_patches.zip)
-- **Noise Patches**: [Download Link](https://[your-link-here]/data/noise_patches.zip)
+- **Data for EMPIAR-10499**: [Download Link](https://pan.baidu.com/s/1UiPxwLu7zbK0fJdo9lm1ng?pwd=djp7)
+- **Data for EMPIAR-10164**: [Download Link](https://pan.baidu.com/s/1UiPxwLu7zbK0fJdo9lm1ng?pwd=djp7)
+- **Data for EMPIAR-10651**: [Download Link](https://pan.baidu.com/s/1UiPxwLu7zbK0fJdo9lm1ng?pwd=djp7)
