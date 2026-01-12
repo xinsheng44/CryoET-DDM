@@ -11,8 +11,6 @@ A deep learning-based denoising framework for cryo-electron tomography (CryoET) 
 - [Training Pipeline](#training-pipeline)
 - [Inference](#inference)
 - [Datasets & Pre-trained Models](#datasets--pre-trained-models)
-- [Project Structure](#project-structure)
-- [Citation](#citation)
 
 ## Overview
 
